@@ -1,4 +1,4 @@
-# Ecommerce Website Tutorial
+# Ecommerce Website Tutorial(HTML CSS JAVASCRIPT)
 
 This project is a tutorial from youtube "Tech2 etc" channel, designed to replicate its features and functionality for learning and development purposes.
 
